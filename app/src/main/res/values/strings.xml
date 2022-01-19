@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telkom Dev Test</string>
+    <string name="title_story_main_activity">Top Stories</string>
+    <string name="title_story_detail_activity">Story Detail</string>
+</resources>
